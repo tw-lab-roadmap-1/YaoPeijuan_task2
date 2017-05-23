@@ -1,0 +1,53 @@
+@charset "utf-8";
+body {
+    margin-left:50px;
+    margin-right:50px;
+}
+h1 {
+    text-align:center;
+}
+.header,section{
+    border:1px solid lightslategray;
+    border-radius:7px;
+    margin-top:10px;
+
+}
+.header{
+    padding:15px;
+    height:25px;
+}
+.header-1{
+    font-weight:bold;
+    width:485px;
+    float:left;
+
+
+}
+dt{
+    padding-left:15px;
+    font-weight:bold;
+}
+li{
+    font-weight:bold;
+}
+header{
+    background-color:lightgrey;
+    padding:15px;
+    font-size:20px;
+    font-weight:bold;
+}
+textarea{
+    margin-left:20px;
+    margin-bottom:15px;
+}
+
+.calcute{
+    border-radius:7px;
+    display:inline-block;
+    background-color:dodgerblue;
+    color:white;
+    padding:8px 12px;
+    margin-top:10px;
+    margin-left:650px;
+
+}
