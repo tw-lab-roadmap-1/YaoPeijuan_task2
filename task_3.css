@@ -6,22 +6,23 @@ body {
 h1 {
     text-align:center;
 }
+
 .header,section{
     border:1px solid lightslategray;
     border-radius:7px;
     margin-top:10px;
-
 }
-.header{
-    padding:15px;
-    height:25px;
-}
-.header-1{
-    font-weight:bold;
-    width:485px;
+.line{
+    display:inline;
     float:left;
+    width:33%;
+    font-weight:bold;
+    margin-top:15px;
+    margin-bottom:15px;
 
-
+}
+.clear{
+    clear:both;
 }
 dt{
     padding-left:15px;
